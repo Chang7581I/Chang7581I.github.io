@@ -1,6 +1,6 @@
 body {
   background:white;
-  background-image:url(sb.jpg);
+  background-image:url("sb.jpg");
   background-size:100%;
   background-repeat:repeat-y;
 }
