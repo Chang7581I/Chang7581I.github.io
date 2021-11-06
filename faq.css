@@ -1,0 +1,73 @@
+body {
+  background:white;
+  background-image:url(steve.png);
+  background-size:100%;
+  background-repeat:no-repeat;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  color:orchid;
+
+
+}
+.intro{
+  text-align: center;
+  color:yellow;
+}
+button{
+  padding-left:20px;
+  padding-right:20px;
+  margin-right:50px;
+}
+.buttons{
+  text-align: center;
+  padding:10px;
+  border: groove 5px purple;
+  background-color: purple;
+  cursor: pointer;
+}
+h3{
+  color:darkcyan;
+  font-size: 20px;
+
+}
+#style:hover{
+  font-size:50px;
+  color: yellow;
+}
+border{
+  margin-bottom:100px;
+}
+hr{
+  color:yellow;
+}
+img{
+  float: left;
+  margin-right:20px;
+}er
+#entity303{
+  color:darkred;
+  text-align: center
+
+}
+#faqintro{
+  text-align: center;
+  color: red;
+}
+#faqstyle{
+  color:green
+}
+#faqstyle:hover{
+  font-size:50px;
+  color: yellow;
+  
+}
+#sfaq:hover{
+  font-size:50px;
+  color: yellow;
+
+}
+
