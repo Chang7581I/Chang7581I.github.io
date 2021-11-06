@@ -1,6 +1,6 @@
 abody {
   background:white;
-  background-image:url(creepypastabackground.jpg);
+  background-image:url("creepypastabackground.jpg");
   background-size:100%;
   background-repeat:repeat-y;
 }
